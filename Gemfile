@@ -37,6 +37,7 @@ gem 'bcrypt-ruby', '3.1.1', :require => 'bcrypt'
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'jquery-rails', '~> 4.1', '>= 4.1.1'
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
